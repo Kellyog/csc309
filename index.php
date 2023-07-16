@@ -10,6 +10,12 @@
     <table>
         <thead>
             <!-- Complete the table header row -->
+            <sn>1</sn>
+            <LastName>Igwe</LastName>
+            <FirstName>Chimdindu</FirstName>
+            <Gender>Female</Gender>
+            <DateOfBirth>2000-6-15</DateOfBirth>
+            <Email>igwec@gmail.com</Email>
         </thead>
 
         <tbody>
